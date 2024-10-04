@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -44,7 +44,7 @@ nav ul li a {
     font-size: 1.2em;
 }
 
-/* Section Styles */
+
 section {
     padding: 20px;
     text-align: center;
@@ -59,7 +59,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-/* Skills Section */
+
 .skills-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -80,7 +80,7 @@ h2 {
     font-size: 0.9em;
 }
 
-/* Footer */
+
 footer {
     background-color: #333;
     color: #fff;
@@ -93,7 +93,7 @@ footer p {
     margin: 0;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
     nav ul li {
         display: block;
